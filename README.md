@@ -3,7 +3,7 @@
 - 👋 Hi, I'm a passionate third-year Computer Engineering student
 - 👀 I’m interested in Backend Web Development
 - 🌱 I’m currently learning Java & Spring Framework
-- 📫 How to reach me selcuk_yilmaz06@outlook.com
+- 📫 How to reach me selcuuukyilmaz@gmail.com
 
 <h3 align="center">Languages and Tools:</h3>
   <p align="center"> 
