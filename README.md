@@ -3,7 +3,7 @@
 ## About Me
 Hello! I'm Selçuk Yılmaz, a passionate Computer Engineering student currently pursuing my degree at Ankara University. I have a strong foundation in Java, Spring Framework, React, PostgreSQL, MongoDB, Docker, JWT, JMS, and REST. My expertise lies in developing web applications that leverage these technologies for efficient and seamless user experiences.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Damples06&show_icons=true&theme=radical&locale=en&layout=compact" alt="osmanmahmutcepoglu"  width="40%" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Damples06&show_icons=true&theme=radical&locale=en&layout=compact" alt="Damples06"  width="40%" />
 
 ## Projects
 
