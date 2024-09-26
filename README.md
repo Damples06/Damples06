@@ -24,7 +24,7 @@ I'm a passionate Java backend developer with a strong focus on creating efficien
 - Utilized technologies such as Spring Boot, Spring Data JPA, PostgreSQL, Lombok, and Java to create a robust and reliable weather information hub.
 - GitHub: [Turkey Weather Hub](https://github.com/Damples06/turkish-weather-hub-spring-boot)
 
-##Skills
+## Skills
 
 - Languages: Java, JavaScript, TypeScript, HTML, CSS
 - Frameworks: Spring Framework (Boot, Web, MVC, Security), Angular, React
