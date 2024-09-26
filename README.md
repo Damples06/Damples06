@@ -1,13 +1,20 @@
 # Selçuk Yılmaz | Junior Java Backend Developer
 
 ## About Me
-Hello! I'm Selçuk Yılmaz, a third-year Computer Engineering student with a strong passion for both back-end and front-end technologies. I specialize in back-end development, aiming to excel as a Java back-end web developer. Currently, I am actively engaged in the development of a Weather Web App using Java and the Spring Framework.
+I'm a passionate Java backend developer with a strong focus on creating efficient and scalable applications. My skills include Java, Spring Framework, and RESTful APIs, along with a solid understanding of front-end technologies like Angular and React. I enjoy exploring new technologies, especially in the field of IoT, and am committed to continuous learning and improvement. Let's connect and collaborate on innovative projects!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Damples06&show_icons=true&theme=radical&locale=en&layout=compact" alt="Selçuk Yılmaz" width="40%" />
 </p>
 
 ## Projects
+
+### Sports Club Application
+- Developed a comprehensive web application for managing sports club activities using Java, Spring Framework, and Angular.
+- Implemented RESTful APIs for user authentication, course management, and member tracking.
+- Utilized PostgreSQL for efficient data management and MapStruct for object mapping, improving the application's performance.
+- Designed an intuitive user interface with Angular, ensuring a seamless experience for users managing their club activities.
+- GitHub: [Sports Club Application](https://github.com/Damples06/sports-club-application)
 
 ### Turkey Weather Hub
 - Developed a Spring Boot application using Spring Data JPA and PostgreSQL for efficient data storage and retrieval.
@@ -17,27 +24,23 @@ Hello! I'm Selçuk Yılmaz, a third-year Computer Engineering student with a str
 - Utilized technologies such as Spring Boot, Spring Data JPA, PostgreSQL, Lombok, and Java to create a robust and reliable weather information hub.
 - GitHub: [Turkey Weather Hub](https://github.com/Damples06/turkish-weather-hub-spring-boot)
 
-### Movie Platform
-- Developed a Movies API using Java, Spring Boot, and Spring Data MongoDB, featuring RESTful endpoints for seamless integration with other applications.
-- Designed a React-based UI for the Movies app, implementing efficient backend communication with Axios for responsive and visually appealing user interaction.
-- Established a comprehensive movie information system, allowing users to retrieve details through intuitive API calls.
-- Implemented a dynamic review system, enabling users to add and contribute movie reviews with data persistence in MongoDB for reliability and scalability.
-- GitHub: [Movie Platform](https://github.com/Damples06/movies-api-react-hub)
+##Skills
 
+- Languages: Java, JavaScript, TypeScript, HTML, CSS
+- Frameworks: Spring Framework (Boot, Web, MVC, Security), Angular, React
+- Databases: PostgreSQL, MongoDB, MySQL
+- Technologies: Git, REST APIs, ORM, Docker, Jenkins
+- Tools: IntelliJ IDEA, Postman, Swagger, Maven, Jira
+    
 ## Education
 - Currently pursuing Computer Engineering at Ankara University.
 - Previous studies at Eskişehir Technical University.
 
 ## Languages
 - Turkish (Native)
-- English (B1)
+- English (B2)
 - German (A2)
 
 ## Contact
 - Email: selcuuukyilmaz@gmail.com
 - LinkedIn: [linkedin.com/in/damples](https://www.linkedin.com/in/damples)
-
-## Seeking Opportunities
-I am actively seeking opportunities to apply my technical skills and contribute effectively in internship or junior positions.
-
-Feel free to explore my GitHub repositories and get in touch!
