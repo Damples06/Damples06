@@ -5,10 +5,6 @@ I am a junior Java backend developer focused on building reliable and scalable a
 
 I enjoy learning new technologies, especially in areas like backend architecture and IoT, and I’m motivated to keep improving through real-world projects and teamwork.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Damples06&show_icons=true&theme=radical&locale=en&layout=compact" alt="Selçuk Yılmaz" width="40%" />
-</p>
-
 ## Projects
 
 ### Sports Club Application
